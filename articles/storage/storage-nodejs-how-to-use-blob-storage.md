@@ -13,8 +13,8 @@
 	ms.tgt_pltfrm="na"
 	ms.devlang="nodejs"
 	ms.topic="article"
-    ms.date="04/29/2016"
-	ms.author="micurd"/>
+    ms.date="06/16/2016"
+	ms.author="dineshm"/>
 
 
 
@@ -398,6 +398,7 @@ Once the ACL is set, you can then create shared access signatures based on the I
 For more information, see the following resources.
 
 -   [Azure Storage SDK for Node API Reference][]
+-   [Azure Storage Code Samples for Node.js][]
 -   [Azure Storage Team Blog][]
 -   [Azure Storage SDK for Node][] repository on GitHub
 -   [Node.js Developer Center](/develop/nodejs/)
@@ -414,3 +415,4 @@ For more information, see the following resources.
 [Build and deploy a Node.js application to an Azure Cloud Service]: ../cloud-services/cloud-services-nodejs-develop-deploy-app.md
 [Azure Storage Team Blog]: http://blogs.msdn.com/b/windowsazurestorage/
 [Azure Storage SDK for Node API Reference]: http://dl.windowsazure.com/nodestoragedocs/index.html
+[Azure Storage Code Samples for Node.js]: https://azure.microsoft.com/en-us/documentation/samples/?service=storage&platform=nodejs
